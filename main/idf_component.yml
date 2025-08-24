@@ -1,0 +1,11 @@
+dependencies:
+  Lab08-Component:
+    git: https://github.com/67030181-phumipat/Lab08-Component.git
+
+  Lab08-component-Display:
+    git: https://github.com/67030207-Wattikorn/Lab08-component-Display
+
+  Lab08-component-LED:
+    git: https://github.com/wasurat07/Lab08-component-LED.git
+  
+  
